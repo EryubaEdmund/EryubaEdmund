@@ -3,12 +3,20 @@ I am an Electrical Engineer and Data Engineer enthusiast. I am passionate about 
 
 # About 
  - Learning: Data Engineering & Analysis | Data Science & AI
- - Languages: Python, C
+ - Languages: SQL, Python 
  - Goals: Learn more technologies | Full stack development
+
+## 🗺️ Learning roadmap
+- [x] Database design
+- [x] Intermediate & Advanced SQL
+- [x] Python fundamentals
+- [ ] Apache Spark
+- [ ] Airflow / pipeline orchestration
+- [ ] AWS / GCP cloud basics
 
 # 📫 Contact
  - Github: https://github.com/EryubaEdmund
- - LinkedIn: https://www.linkedin.com/in/edmund-nyawaga-516232162
+ - LinkedIn: https://www.linkedin.com/in/edmund-eryuba-516232162/
 
 
 <!--
