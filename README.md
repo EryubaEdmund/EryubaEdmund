@@ -66,15 +66,15 @@ I'm an Electrical Engineer with a growing passion for **Data Engineering** and *
 ## ⚙️ Phase 2 — Data engineering `In progress`
 | | |
 |---|---|
-| 🔄 | Python · Pandas · NumPy |
+| ✅ | Python · Pandas · NumPy |
+| ✅ | Python automation & workflows |
+| 🔁 | Docker · Containerization |
 | 📌 | MongoDB · non-relational databases |
-| 📌 | Python automation & workflows |
-| 📌 | Docker · Containerization |
 
 ## 🔁 Phase 3 — Pipelines at scale `Planned`
 | | |
 |---|---|
-| 📌 | Apache NiFi · Airflow · Kafka |
+| 🔁 | Apache NiFi · Airflow · Kafka |
 | 📌 | Apache Spark |
 | 📌 | AWS / GCP cloud pipelines |
 
