@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/edmund-eryuba-516232162"><img src="https://img.shields.io/badge/LinkedIn-Edmund%20Eryuba-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/EryubaEdmund"><img src="https://img.shields.io/badge/GitHub-EryubaEdmund-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=EryubaEdmund&style=flat&color=blue" alt="Profile views"/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=EryubaEdmund&style=flat&color=blue" alt="Profile views"/> -->
 </p>
 
 ---
