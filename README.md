@@ -73,8 +73,7 @@ My engineering background shapes how I approach data: methodically, with attenti
 
 ## 🔁 Currently Engaged
 
-- **End-to-end pipeline project** — ingesting, transforming, and visualising real-world data using Python, SQL, and Airflow; applying production-grade engineering practices
-- **MongoDB & NoSQL design** — exploring document-oriented data modelling and when to favour flexible schemas over relational structures
+- **FastAPI** - A collection of FastAPI-based backend and data engineering projects showcasing modern Python API development, scalable architectures, and production-ready engineering practices.
 
 
 ---
@@ -95,8 +94,3 @@ In line with my trajectory from analytics to engineering to intelligent systems:
 - 💼 &nbsp;LinkedIn: [edmund-eryuba-516232162](https://www.linkedin.com/in/edmund-eryuba-516232162/)
 - 🐙 &nbsp;GitHub: [EryubaEdmund](https://github.com/EryubaEdmund)
 
----
-
-<p align="center">
-  <em>"An engineer is someone who can do for a dime what any fool can do for a dollar." — Arthur M. Wellington</em>
-</p>
