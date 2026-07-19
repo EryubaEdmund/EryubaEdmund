@@ -1,7 +1,7 @@
 <h1 align="center">Edmund Eryuba</h1>
 
 <p align="center">
-  <em>Electrical Engineer &nbsp;·&nbsp; Data Engineer &nbsp;·&nbsp; Systems Thinker</em>
+  <em>Data Engineer &nbsp;·&nbsp; Backend/API Developer &nbsp;·&nbsp; Electrical Engineer</em>
 </p>
 
 <p align="center">
@@ -14,9 +14,11 @@
 
 ## About Me
 
-I'm an Electrical Engineer with a strong foundation in data engineering, drawn by the same principles that underpin circuit design: structured flows, clean transformations, and reliable outputs. I work at the intersection of analytical rigour and practical implementation, designing pipelines and systems that turn raw data into actionable insight.
+I'm a Data Engineer with a background in Electrical Engineering, drawn to the same principles that underpin circuit design: structured flows, clean transformations, and reliable outputs. I work at the intersection of analytical rigour and practical implementation — building ETL pipelines, backend APIs, and increasingly, retrieval-augmented data products that turn raw data into grounded, sourced answers.
 
-My engineering background shapes how I approach data: methodically, with attention to bottlenecks, signal integrity, and scalability. I'm equally at home writing SQL queries, orchestrating workflows, or visualising results for stakeholders.
+My engineering background shapes how I approach data: methodically, with attention to bottlenecks, signal integrity, and scalability. I'm equally at home writing SQL queries, orchestrating Airflow workflows, building a FastAPI backend, or visualising results for stakeholders.
+
+Currently a Data Engineering Intern at **LuxDev Academy**, following completion of an intensive Data Engineering Bootcamp.
 
 ---
 
@@ -30,10 +32,24 @@ My engineering background shapes how I approach data: methodically, with attenti
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-2A308B?style=flat&logo=gunicorn&logoColor=white)
+
+**AI, RAG & NLP**
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat&logo=databricks&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
 **Data & Engineering**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -60,10 +76,11 @@ My engineering background shapes how I approach data: methodically, with attenti
 
 | Domain | Skills & Tools |
 |---|---|
+| **Retrieval-Augmented Generation** | FastAPI, ChromaDB, Sentence-Transformers, Groq/OpenAI — semantic search, embeddings, sourced Q&A |
 | **Version Control & CI/CD** | Git, GitHub, GitHub Actions — branching strategies, automated workflows |
 | **Databases & Querying** | SQL, PostgreSQL, Advanced SQL, DBeaver — schema design, query optimisation, joins, CTEs |
 | **Data Analysis & Visualisation** | Power BI, Microsoft Excel, Jupyter Notebooks — dashboarding, reporting, exploratory analysis |
-| **Programming for Data** | Python, Pandas, NumPy — data wrangling, transformation pipelines, automation scripts |
+| **Programming for Data** | Python, Pandas, NumPy, PySpark — data wrangling, transformation pipelines, distributed processing, automation scripts |
 | **Workflow Orchestration** | Apache Airflow — DAG design, scheduling, dependency management |
 | **Cloud Data Pipelines** | AWS & GCP — cloud storage, managed services, pipeline deployment |
 | **Containerisation** | Docker — environment reproducibility, service isolation |
@@ -73,8 +90,8 @@ My engineering background shapes how I approach data: methodically, with attenti
 
 ## 🔁 Currently Engaged
 
-- **FastAPI** - A collection of FastAPI-based backend and data engineering projects showcasing modern Python API development, scalable architectures, and production-ready engineering practices.
-
+- **[Travel Africa — Kenya Hotel Discovery & Trip Planning RAG Assistant](#)** — A FastAPI backend implementing a fully layered Retrieval-Augmented Generation pipeline (scraping → cleaning → enrichment → embeddings → vector store → RAG) that answers natural-language travel questions with sourced, cited hotel data across Kenya and East Africa. Built on live public APIs (OpenStreetMap Overpass, Geoapify), ChromaDB, and a pluggable LLM layer that works fully offline with zero API keys.
+- **FastAPI** — A broader collection of FastAPI-based backend and data engineering projects showcasing modern Python API development, scalable architectures, and production-ready engineering practices.
 
 ---
 
@@ -93,4 +110,3 @@ In line with my trajectory from analytics to engineering to intelligent systems:
 
 - 💼 &nbsp;LinkedIn: [edmund-eryuba-516232162](https://www.linkedin.com/in/edmund-eryuba-516232162/)
 - 🐙 &nbsp;GitHub: [EryubaEdmund](https://github.com/EryubaEdmund)
-
